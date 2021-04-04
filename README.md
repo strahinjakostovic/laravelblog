@@ -1,3 +1,21 @@
+## README FOR THE BLOG
+
+Made by Strahinja Kostovic 2021.
+If you want to try out my blog, download the files, move the database "laravelblog.sql" file from the folder and import it to your own host.
+
+For login -> Use credentials given under:
+
+           --- Admin credentials --- 
+           email: admin@admin.com
+           pw: admin12
+
+-----NOTE: YOU CAN CREATE YOUR OWN USER PROFILE!----
+
+           --- User credentials ---
+           email: user@user.com
+           pw: password
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
